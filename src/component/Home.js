@@ -137,10 +137,6 @@ class Home extends React.Component {
                                 </dd>
                             </dl>
                         </li>
-s
-
-
-
 
                         <li>
                             <dl>
